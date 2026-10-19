@@ -3,6 +3,8 @@
 
 Projeto acadêmico desenvolvido no Cisco Packet Tracer para planejar uma rede segura e integrada para a loja Ana Fashion.
 
+A Ana Fashion está enfrentando dificuldades com sua infraestrutura de rede, pois possui vários equipamentos que precisam estar conectados e funcionando de forma integrada. Entre os principais problemas estão a necessidade de manter os caixas conectados ao sistema de estoque, garantir o funcionamento das câmeras de segurança e oferecer uma conexão Wi-Fi adequada para os tablets. 
+
 ## Objetivo
 
 Conectar os caixas, tablets, impressora, maquininha de cartão, servidor de estoque e câmeras IP, garantindo a comunicação entre os dispositivos.
