@@ -25,3 +25,15 @@ Abaixo está a topologia desenvolvida no Cisco Packet Tracer.
 ## Arquivo editável
 
 O arquivo `.pkt` do projeto pode ser aberto no Cisco Packet Tracer para visualizar e modificar a topologia.
+
+## Configuração do Roteador
+
+Imagem da configuração no roteador durante o desenvolvimento do projeto.
+
+![Configuração do roteador](imagens/config-do-roteador.png)
+
+## Teste de conectividade
+
+Foram realizados testes de conectividade para verificar a comunicação entre os dispositivos da rede.
+
+![Teste de conexão](imagens/teste-de-conexão.png)'''''
